@@ -38,8 +38,8 @@ This tool requires the following:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/password-extraction-tool.git
-    cd password-extraction-tool
+    git clone https://github.com/3ls3if/Forensics-Credential-Harvester.git
+    cd Forensics-Credential-Harvester
     ```
 
 2. **Install Dependencies**
@@ -60,7 +60,7 @@ This tool requires the following:
 
 1. **Navigate to the project directory**:
     ```bash
-    cd password-extraction-tool
+    cd Forensics-Credential-Harvester
     ```
 
 2. **Run the main script**:
